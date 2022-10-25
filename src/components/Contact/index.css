@@ -1,0 +1,16 @@
+.contact-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.contact-image {
+  height: 300px;
+  width: 300px;
+}
+.contact-heading {
+  color: #551e53;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 700;
+}

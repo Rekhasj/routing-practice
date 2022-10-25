@@ -1,0 +1,16 @@
+.not-found-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found-image {
+  height: 250px;
+  width: 250px;
+}
+.not-found-heading {
+  color: #551e53;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 700;
+}
